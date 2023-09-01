@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align=center>🛩 Welcome to Ava Li Github ![1502088C](https://github.com/wenwenli6/wenwenli6/assets/103230815/ec5ac01b-ce01-45db-84a4-1a37d259e81e)
+<h1 align=center>🛩 Welcome to Ava Li Github !)
 </h1> 
 
 ## 🙋 Intro 
