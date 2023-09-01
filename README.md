@@ -7,7 +7,7 @@
 - Life learner
 - Coding lover
 
-## ![Education](14DF32E3.png)Education
+## Education
 Georgia Institute of Technology **Computer Science** (M.S.) 2022 - 2024
 </br>
 - [TravelSpotter](https://github.com/wenwenli6/TravelSpotter) ([Demo](https://travelspotter-df2a661ff6cf.herokuapp.com/)) 
@@ -20,11 +20,11 @@ Georgia Institute of Technology **Computer Science** (M.S.) 2022 - 2024
     - Frontend: React
     - Backend: Spring Boot, Spring Security, H2, Java
 
-## ![Contact](14FEEBAC.png)Contact
+## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wli680@gatech.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ava-l-233252237/)
 
-## ![Skills](14FF9D2A.png)Skills
+## Skills
 <p align="middle"> 
 <!-- java -->
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
