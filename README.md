@@ -6,7 +6,7 @@
 - Coding lover
 
 ## Education
-Georgia Institute of Technology Master of **Computer Science**  (2022 - 2024)
+Georgia Institute of Technology <br>Master of **Computer Science**  (2022 - 2024)
 
 ## Projects
 - [TravelSpotter](https://github.com/wenwenli6/TravelSpotter) ([Demo](https://travelspotter-df2a661ff6cf.herokuapp.com/)) 
