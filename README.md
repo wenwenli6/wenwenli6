@@ -1,6 +1,6 @@
 <h1 align=center>🛩 Welcome to Ava Li Github! </h1> 
 
-## 🙋 Intro 
+## 🙋 Hey there!
 - I am actively seeking Full-time Software Development / Data / Machine Learning positions!
 - Life learner
 - Coding lover
