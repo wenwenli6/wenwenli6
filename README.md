@@ -1,6 +1,4 @@
-### Hi there 👋
-<h1 align=center>🛩 Welcome to Ava Li Github !)
-</h1> 
+<h1 align=center>🛩 Welcome to Ava Li Github! </h1> 
 
 ## 🙋 Intro 
 - I am actively seeking Full-time Software Development / Data / Machine Learning positions!
@@ -8,8 +6,9 @@
 - Coding lover
 
 ## Education
-Georgia Institute of Technology **Computer Science** (M.S.) 2022 - 2024
-</br>
+Georgia Institute of Technology Master of **Computer Science**  (2022 - 2024)
+
+## Projects
 - [TravelSpotter](https://github.com/wenwenli6/TravelSpotter) ([Demo](https://travelspotter-df2a661ff6cf.herokuapp.com/)) 
     - Frontend: HTML(ejs), CSS, Javascript, Boostrap
     - Backend: Node.js, express.js, MongoDB(NoSQL)
