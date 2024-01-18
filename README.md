@@ -1,4 +1,4 @@
-<h1 align=center>🛩 Welcome to Ava Li Github! </h1> 
+<h1 align=center>🛩 Welcome to Winnie Li Github! </h1> 
 
 ## 🙋 Hey there!
 - I am actively seeking Full-time Consulting/Tech positions!
