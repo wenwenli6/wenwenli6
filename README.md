@@ -1,7 +1,7 @@
 <h1 align=center>🛩 Welcome to Ava Li Github! </h1> 
 
 ## 🙋 Hey there!
-- I am actively seeking Full-time Condulting/Tech positions!
+- I am actively seeking Full-time Consulting/Tech positions!
 - Quick learner and Life learner
 - Coding lover
 
